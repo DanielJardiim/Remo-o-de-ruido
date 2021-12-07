@@ -1,2 +1,2 @@
-# Remo-o-de-ruido
+# Remocao-de-ruido
 Noise Removal
